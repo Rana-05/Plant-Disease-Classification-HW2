@@ -1,0 +1,402 @@
+[
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/graphs/FasterNet_accuracy.png",
+    "destination": "Report_Resources/C2_Training_Results/graphs/FasterNet_accuracy.png"
+  },
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/graphs/FasterNet_loss.png",
+    "destination": "Report_Resources/C2_Training_Results/graphs/FasterNet_loss.png"
+  },
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/graphs/EfficientViT_accuracy.png",
+    "destination": "Report_Resources/C2_Training_Results/graphs/EfficientViT_accuracy.png"
+  },
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/graphs/GhostNet_accuracy.png",
+    "destination": "Report_Resources/C2_Training_Results/graphs/GhostNet_accuracy.png"
+  },
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/graphs/EfficientViT_loss.png",
+    "destination": "Report_Resources/C2_Training_Results/graphs/EfficientViT_loss.png"
+  },
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/graphs/GhostNet_loss.png",
+    "destination": "Report_Resources/C2_Training_Results/graphs/GhostNet_loss.png"
+  },
+  {
+    "category": "C2_Training_Results",
+    "source": "C2_Model_Training/C2_Model_Comparison.csv",
+    "destination": "Report_Resources/C2_Training_Results/C2_Model_Comparison.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/FasterNet_predictions.csv",
+    "destination": "Report_Resources/C3_Classification/classification/FasterNet_predictions.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/FasterNet_classification_report.csv",
+    "destination": "Report_Resources/C3_Classification/classification/FasterNet_classification_report.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/EfficientViT_predictions.csv",
+    "destination": "Report_Resources/C3_Classification/classification/EfficientViT_predictions.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/EfficientViT_classification_report.csv",
+    "destination": "Report_Resources/C3_Classification/classification/EfficientViT_classification_report.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/GhostNet_predictions.csv",
+    "destination": "Report_Resources/C3_Classification/classification/GhostNet_predictions.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/GhostNet_classification_report.csv",
+    "destination": "Report_Resources/C3_Classification/classification/GhostNet_classification_report.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/model_comparison.csv",
+    "destination": "Report_Resources/C3_Classification/classification/model_comparison.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/per_class_recall.csv",
+    "destination": "Report_Resources/C3_Classification/classification/per_class_recall.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/diseased_predicted_as_healthy.csv",
+    "destination": "Report_Resources/C3_Classification/classification/diseased_predicted_as_healthy.csv"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/figures/FasterNet_confusion_matrix.png",
+    "destination": "Report_Resources/C3_Classification/classification/figures/FasterNet_confusion_matrix.png"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/figures/EfficientViT_confusion_matrix.png",
+    "destination": "Report_Resources/C3_Classification/classification/figures/EfficientViT_confusion_matrix.png"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/figures/GhostNet_confusion_matrix.png",
+    "destination": "Report_Resources/C3_Classification/classification/figures/GhostNet_confusion_matrix.png"
+  },
+  {
+    "category": "C3_Classification",
+    "source": "C3_Evaluation_Explainability/classification/figures/per_class_recall_comparison.png",
+    "destination": "Report_Resources/C3_Classification/classification/figures/per_class_recall_comparison.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_85.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_85.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_27.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_27.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_94.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_94.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_135.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_135.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_268.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_268.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_204.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_204.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_280.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_280.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_291.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_291.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_374.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_374.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_394.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_394.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_425.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_425.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_422.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_422.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_594.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_594.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_544.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_544.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_642.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_642.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_646.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_646.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_774.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_774.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/FasterNet_765.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/FasterNet_765.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_85.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_85.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_27.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_27.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_94.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_94.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_135.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_135.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_268.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_268.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_204.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_204.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_280.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_280.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_291.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_291.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_374.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_374.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_394.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_394.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_425.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_425.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_422.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_422.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_594.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_594.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_544.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_544.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_642.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_642.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_646.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_646.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_774.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_774.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/EfficientViT_765.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/EfficientViT_765.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_85.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_85.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_27.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_27.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_94.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_94.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_135.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_135.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_268.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_268.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_204.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_204.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_280.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_280.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_291.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_291.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_374.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_374.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_394.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_394.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_425.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_425.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_422.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_422.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_594.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_594.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_544.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_544.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_642.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_642.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_646.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_646.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_774.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_774.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/figures/GhostNet_765.png",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/figures/GhostNet_765.png"
+  },
+  {
+    "category": "C3_GradCAM",
+    "source": "C3_Evaluation_Explainability/gradcam/selected_samples.csv",
+    "destination": "Report_Resources/C3_GradCAM/gradcam/selected_samples.csv"
+  },
+  {
+    "category": "C3_Insertion_Deletion",
+    "source": "C3_Evaluation_Explainability/insertion_deletion/figures/auc_comparison.png",
+    "destination": "Report_Resources/C3_Insertion_Deletion/insertion_deletion/figures/auc_comparison.png"
+  },
+  {
+    "category": "C3_Insertion_Deletion",
+    "source": "C3_Evaluation_Explainability/insertion_deletion/figures/mean_insertion_deletion_curves.png",
+    "destination": "Report_Resources/C3_Insertion_Deletion/insertion_deletion/figures/mean_insertion_deletion_curves.png"
+  },
+  {
+    "category": "C3_Insertion_Deletion",
+    "source": "C3_Evaluation_Explainability/insertion_deletion/auc_summary.csv",
+    "destination": "Report_Resources/C3_Insertion_Deletion/insertion_deletion/auc_summary.csv"
+  },
+  {
+    "category": "C3_Insertion_Deletion",
+    "source": "C3_Evaluation_Explainability/insertion_deletion/insertion_deletion_results.csv",
+    "destination": "Report_Resources/C3_Insertion_Deletion/insertion_deletion/insertion_deletion_results.csv"
+  },
+  {
+    "category": "C3_Final_Comparison",
+    "source": "C3_Evaluation_Explainability/final/C3_Final_Model_Comparison.csv",
+    "destination": "Report_Resources/C3_Final_Comparison/final/C3_Final_Model_Comparison.csv"
+  }
+]

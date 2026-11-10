@@ -1,0 +1,11 @@
+{
+  "image_size": 224,
+  "batch_size": 32,
+  "seed": 42,
+  "test_dataset": "PlantDoc",
+  "models": [
+    "FasterNet",
+    "EfficientViT",
+    "GhostNet"
+  ]
+}

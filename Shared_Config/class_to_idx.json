@@ -1,0 +1,11 @@
+{
+  "Apple___Apple_scab": 0,
+  "Apple___Cedar_apple_rust": 1,
+  "Apple___healthy": 2,
+  "Grape___Black_rot": 3,
+  "Grape___healthy": 4,
+  "Tomato___Bacterial_spot": 5,
+  "Tomato___Early_blight": 6,
+  "Tomato___healthy": 7,
+  "Tomato___Late_blight": 8
+}

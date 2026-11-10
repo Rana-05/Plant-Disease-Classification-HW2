@@ -1,0 +1,4 @@
+Model,Epochs Trained,Best Epoch,Best Validation Accuracy (%),Best Validation Loss
+FasterNet,20,12,99.9,0.0049
+EfficientViT,23,16,99.95,0.0035
+GhostNet,18,11,99.9,0.0048

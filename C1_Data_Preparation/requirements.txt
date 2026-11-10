@@ -1,0 +1,8 @@
+torch
+torchvision
+timm==1.0.31
+pandas
+Pillow
+tqdm
+google-api-python-client
+google-auth

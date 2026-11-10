@@ -1,0 +1,10 @@
+Model,Crop,Disease Images,Predicted as Healthy
+FasterNet,Apple,182,3
+FasterNet,Grape,64,1
+FasterNet,Tomato,308,3
+EfficientViT,Apple,182,0
+EfficientViT,Grape,64,0
+EfficientViT,Tomato,308,38
+GhostNet,Apple,182,2
+GhostNet,Grape,64,1
+GhostNet,Tomato,308,22

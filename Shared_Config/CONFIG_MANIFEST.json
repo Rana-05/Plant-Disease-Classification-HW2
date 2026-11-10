@@ -1,0 +1,10 @@
+{
+  "source": "C1_Data_Preparation/config",
+  "purpose": "Shared reference configuration for C1, C2, and C3",
+  "files": [
+    "class_to_idx.json",
+    "class_weights.pt",
+    "project_config.json"
+  ],
+  "note": "These files are preserved copies of the original C1 configuration. No values have been modified."
+}
